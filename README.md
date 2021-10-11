@@ -87,10 +87,10 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![akshay](https://github.com/unni-settam.png?size=100)](https://github.com/unni-settan)
+   [![UNNISETTAN](https://github.com/unni-settan.png?size=100)](https://github.com/unni-settan)  
 
-[akshay](https://github.com/unni-settan)  
-Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
+ [UNNISETTAN](https://github.com/unni-settan) 
+Re-Developer, Bug Fixes, Modules, Commits 
   </div>
     
 
