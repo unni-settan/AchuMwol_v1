@@ -119,7 +119,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '919895828468@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./Amalser/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['Achumwol','alone','baby','hlo','kozhi','love','nassicdol','piller','promote','restart','bot','patti','xxx','umma','akshay','om','kannapi','aarulle','alive','aliya','andi','anthas','ario','ayin','ayn','ayseri','ayye','bgm','birthday','boss','chunk','biscit','mass',']
+const array = ['Achumwol','alone','baby','hlo','kozhi','love','nassicdol','piller','promote','restart','bot','patti','xxx','umma','akshay','om','kannapi','aarulle','alive','aliya','andi','anthas','ario','ayin','ayn','ayseri','ayye','bgm','birthday','boss','chunk','biscit','mass','moodesh','menu','myre','nanban','ok','re entry','sad','unni']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
