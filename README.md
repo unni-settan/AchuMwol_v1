@@ -31,26 +31,6 @@ Project created by <a href="https://github.com/unni-settan">AchuMwol</a> to make
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
   
-### The Hard Method
-```js
-GET QR
-$ apt install git
-$ apt install nodejs --fix-missing
-$ git clone https://github.com/unni-settan/AchuMwol
-$ cd AchuMwol
-$ npm install @adiwajshing/baileys
-$ npm install chalk
-$ node julie.js
-```
-      
-```js
-SETUP
-$ git clone https://github.com/unni-settan/AchuMwol
-$ cd AchuMwol
-$ npm i
-$ node julie.js
-```
-
 ----
 
 ## 📢 Guide
