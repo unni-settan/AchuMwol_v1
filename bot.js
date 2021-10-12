@@ -2,6 +2,7 @@
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
+
 WhatsAsena - Yusuf Usta
 */
 
@@ -107,16 +108,6 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.green.bold('✅ Login successful!')
         );
-        console.log(
-            chalk.blueBright.italic('Confirming password...')
-        );
-         }
-         else if (config.AFPLK !== 'AFAMK' || config.AFPLK !== 'afamk' || config.AFPLK !== 'Afamk' || config.AFPLK !== 'pinky') {
-         console.log(
-            chalk.red.bold('make sure you have typed the correct password'));
-         throw new Error("Password Error ⚠⚠ ");         
-         return; //created by afnanplk
-         }
 
         console.log(
             chalk.blueBright.italic('⬇️ Installing external plugins...')
@@ -145,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('Achumwol working 💌')
+            chalk.green.bold('ACHUMWOL PERFECTLY WORKING💖')
         );
     });
     
@@ -270,8 +261,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ AchuMwol ~_________~*' +
-                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCxRHOVomU9Z0w1Vmz8aX-Ig*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ ACHUMWOL ~______~*' +
+                                    '\n*🌀 : https://chat.whatsapp.com/GV0peRoPAzjIqJfHZDkxbV*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
